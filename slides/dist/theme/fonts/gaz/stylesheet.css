@@ -1,0 +1,228 @@
+@font-face {
+    font-family: 'Gaz Tar';
+    src: url('GazTar-Regular.eot');
+    src: local('GazTar-Regular'),
+        url('GazTar-Regular.eot?#iefix') format('embedded-opentype'),
+        url('GazTar-Regular.woff2') format('woff2'),
+        url('GazTar-Regular.woff') format('woff'),
+        url('GazTar-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gaz Grease';
+    src: url('GazGrease-Regular.eot');
+    src: local('GazGrease-Regular'),
+        url('GazGrease-Regular.eot?#iefix') format('embedded-opentype'),
+        url('GazGrease-Regular.woff2') format('woff2'),
+        url('GazGrease-Regular.woff') format('woff'),
+        url('GazGrease-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gaz Rg';
+    src: url('GazRg-Regular.eot');
+    src: local('GazRg-Regular'),
+        url('GazRg-Regular.eot?#iefix') format('embedded-opentype'),
+        url('GazRg-Regular.woff2') format('woff2'),
+        url('GazRg-Regular.woff') format('woff'),
+        url('GazRg-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gaz Rg';
+    src: url('GazRg-BoldItalic.eot');
+    src: local('GazRg-BoldItalic'),
+        url('GazRg-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('GazRg-BoldItalic.woff2') format('woff2'),
+        url('GazRg-BoldItalic.woff') format('woff'),
+        url('GazRg-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Gaz Lt';
+    src: url('GazLt-Italic.eot');
+    src: local('GazLt-Italic'),
+        url('GazLt-Italic.eot?#iefix') format('embedded-opentype'),
+        url('GazLt-Italic.woff2') format('woff2'),
+        url('GazLt-Italic.woff') format('woff'),
+        url('GazLt-Italic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Gaz Tank';
+    src: url('GazTank-Regular.eot');
+    src: local('GazTank-Regular'),
+        url('GazTank-Regular.eot?#iefix') format('embedded-opentype'),
+        url('GazTank-Regular.woff2') format('woff2'),
+        url('GazTank-Regular.woff') format('woff'),
+        url('GazTank-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gaz Truck';
+    src: url('GazTruck-Regular.eot');
+    src: local('GazTruck-Regular'),
+        url('GazTruck-Regular.eot?#iefix') format('embedded-opentype'),
+        url('GazTruck-Regular.woff2') format('woff2'),
+        url('GazTruck-Regular.woff') format('woff'),
+        url('GazTruck-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gaz Rg';
+    src: url('GazRg-Italic.eot');
+    src: local('GazRg-Italic'),
+        url('GazRg-Italic.eot?#iefix') format('embedded-opentype'),
+        url('GazRg-Italic.woff2') format('woff2'),
+        url('GazRg-Italic.woff') format('woff'),
+        url('GazRg-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Gaz Hv';
+    src: url('GazHv-Italic.eot');
+    src: local('GazHv-Italic'),
+        url('GazHv-Italic.eot?#iefix') format('embedded-opentype'),
+        url('GazHv-Italic.woff2') format('woff2'),
+        url('GazHv-Italic.woff') format('woff'),
+        url('GazHv-Italic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Gaz Lt';
+    src: url('GazLt-Regular.eot');
+    src: local('GazLt-Regular'),
+        url('GazLt-Regular.eot?#iefix') format('embedded-opentype'),
+        url('GazLt-Regular.woff2') format('woff2'),
+        url('GazLt-Regular.woff') format('woff'),
+        url('GazLt-Regular.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gaz El';
+    src: url('GazEl-Italic.eot');
+    src: local('GazEl-Italic'),
+        url('GazEl-Italic.eot?#iefix') format('embedded-opentype'),
+        url('GazEl-Italic.woff2') format('woff2'),
+        url('GazEl-Italic.woff') format('woff'),
+        url('GazEl-Italic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Gaz Fumes';
+    src: url('GazFumes-Regular.eot');
+    src: local('GazFumes-Regular'),
+        url('GazFumes-Regular.eot?#iefix') format('embedded-opentype'),
+        url('GazFumes-Regular.woff2') format('woff2'),
+        url('GazFumes-Regular.woff') format('woff'),
+        url('GazFumes-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gaz El';
+    src: url('GazEl-Regular.eot');
+    src: local('GazEl-Regular'),
+        url('GazEl-Regular.eot?#iefix') format('embedded-opentype'),
+        url('GazEl-Regular.woff2') format('woff2'),
+        url('GazEl-Regular.woff') format('woff'),
+        url('GazEl-Regular.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gaz Rg';
+    src: url('GazRg-Bold.eot');
+    src: local('GazRg-Bold'),
+        url('GazRg-Bold.eot?#iefix') format('embedded-opentype'),
+        url('GazRg-Bold.woff2') format('woff2'),
+        url('GazRg-Bold.woff') format('woff'),
+        url('GazRg-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gaz Bk';
+    src: url('GazBk-Regular.eot');
+    src: local('GazBk-Regular'),
+        url('GazBk-Regular.eot?#iefix') format('embedded-opentype'),
+        url('GazBk-Regular.woff2') format('woff2'),
+        url('GazBk-Regular.woff') format('woff'),
+        url('GazBk-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gaz Ul';
+    src: url('GazUl-Italic.eot');
+    src: local('GazUl-Italic'),
+        url('GazUl-Italic.eot?#iefix') format('embedded-opentype'),
+        url('GazUl-Italic.woff2') format('woff2'),
+        url('GazUl-Italic.woff') format('woff'),
+        url('GazUl-Italic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Gaz Hv';
+    src: url('GazHv-Regular.eot');
+    src: local('GazHv-Regular'),
+        url('GazHv-Regular.eot?#iefix') format('embedded-opentype'),
+        url('GazHv-Regular.woff2') format('woff2'),
+        url('GazHv-Regular.woff') format('woff'),
+        url('GazHv-Regular.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gaz Bk';
+    src: url('GazBk-Italic.eot');
+    src: local('GazBk-Italic'),
+        url('GazBk-Italic.eot?#iefix') format('embedded-opentype'),
+        url('GazBk-Italic.woff2') format('woff2'),
+        url('GazBk-Italic.woff') format('woff'),
+        url('GazBk-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Gaz Ul';
+    src: url('GazUl-Regular.eot');
+    src: local('GazUl-Regular'),
+        url('GazUl-Regular.eot?#iefix') format('embedded-opentype'),
+        url('GazUl-Regular.woff2') format('woff2'),
+        url('GazUl-Regular.woff') format('woff'),
+        url('GazUl-Regular.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
