@@ -78,7 +78,7 @@ Objetivo: Portfolio y apoyo al aprendizaje <!-- .element: class="fragment" -->
 
 **UD2: La desolación de los datos** → T2
 
-**UD3: La batalla de las nubes** → T3
+**UD3: La batalla de las infinitas nubes** → T3
 
 Note:
 
