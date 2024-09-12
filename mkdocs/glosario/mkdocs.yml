@@ -1,5 +1,5 @@
 INHERIT: ../base.yml
-site_name: DIG - Glosario
+site_name: Digitalización - Glosario
 site_dir: ../../docs/glosario
 
 # Page tree

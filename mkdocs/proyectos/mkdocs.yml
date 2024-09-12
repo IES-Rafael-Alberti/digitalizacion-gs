@@ -1,5 +1,5 @@
 INHERIT: ../base.yml
-site_name: DIG - Proyectos
+site_name: Digitalización - Proyectos
 site_dir: ../../docs/proyectos
   
 
