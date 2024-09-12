@@ -1,0 +1,62 @@
+INHERIT: ../base.yml
+site_name: DIG - Glosario
+site_dir: ../../docs/glosario
+
+# Page tree
+nav:
+  - Inicio: index.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/iesalberticadiz
+      name: IES Rafael Alberti en Twitter
+    - icon: fontawesome/brands/github
+      link: https://github.com/IES-Rafael-Alberti/digitalizacion-gs
+      name: Repositorio del módulo
+
+plugins:
+# Configuración de ejemplo, no se aplicará mientras que no se elimine este plugin de los .yml de cada proyecto
+  - search:
+      lang: es
+  - search:
+      lang: es
+  - with-pdf:
+      author: Equipo educativo del IES Rafael Alberti
+      copyright: CC BY-SA 4.0
+      #
+      cover: true
+      #back_cover: true
+      cover_title: Glosario de Digitalización
+      cover_subtitle: Grado Superior en Desarrollo de Aplicaciones Multiplataforma
+      #custom_template_path: TEMPLATES PATH
+      #
+      toc_title: Tabla de contenidos
+      #heading_shift: false
+      #toc_level: 3
+      #ordered_chapter_level: 2
+      #excludes_children:
+      #    - 'release-notes/:upgrading'
+      #    - 'release-notes/:changelog'
+      #
+      #exclude_pages:
+      #    - 'bugs/'
+      #    - 'appendix/contribute/'
+      #convert_iframe:
+      #    - src: IFRAME SRC
+      #      img: POSTER IMAGE URL
+      #      text: ALTERNATE TEXT
+      #    - src: ...
+      #two_columns_level: 3
+      #
+    #render_js: true
+      #headless_chrome_path: headless-chromium
+      #
+    #output_path: ../document.pdf
+      #enabled_if_env: ENABLE_PDF_EXPORT
+      #
+      #debug_html: true
+      #show_anchors: true
+    #verbose: true
+
+copyright: Contenido generado por el equipo educativo del IES Rafael Alberti

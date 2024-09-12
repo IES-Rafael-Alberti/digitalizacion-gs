@@ -31,8 +31,8 @@ plugins:
       #
       cover: true
       #back_cover: true
-      cover_title: TITLE TEXT
-      cover_subtitle: SUBTITLE TEXT
+      cover_title: Glosario de Digitalización
+      cover_subtitle: Grado Superior en Desarrollo de Aplicaciones Multiplataforma
       #custom_template_path: TEMPLATES PATH
       #
       toc_title: Tabla de contenidos

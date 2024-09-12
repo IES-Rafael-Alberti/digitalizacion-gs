@@ -2,12 +2,11 @@ site_name: Docs
 theme:
   name: material
   language: es
-  logo: assets/logo-blanco.svg
-  favicon: assets/logo-color.svg
+  logo: assets/logo.svg
+  favicon: assets/logo.svg
   palette:
     - media: "(prefers-color-scheme: light)" 
-      scheme: default
-      primary: blue
+      scheme: alberti
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
