@@ -91,6 +91,14 @@ Ciencia de datos, ciberseguridad y tecnologías habilitadoras digitales
 UD3
 Transformación digital y cloud
 ---
+## Proyectos
+
+Proyecto 1: Diseño de la transformación digital de un sector usando IA <!-- .element: class="fragment" -->
+
+Proyecto 2: Un software para la transformación digital <!-- .element: class="fragment" -->
+
+Proyecto 3: Un código abierto para la transformación digital <!-- .element: class="fragment" -->
+---
 
 ## ¿Y mi calificación?
 
