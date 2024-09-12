@@ -17,8 +17,8 @@ Material didáctico del módulo Digitalización aplicada a los sectores producti
 
 ## Diapositivas
 
-* [Presentación](URL/slides/presentacion.html)
+* [Presentación](/slides/presentacion.html)
 
 ## Glosario
 
-* [Glosario del curso](URL/docs/glosario)
+* [Glosario del curso](/docs/glosario)
