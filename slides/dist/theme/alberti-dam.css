@@ -96,8 +96,8 @@
    text-transform: var(--r-heading-text-transform);
    text-shadow: var(--r-heading-text-shadow);
    word-wrap: break-word;
-   background: -webkit-linear-gradient(left top, #e93456, #ffe5ea);
-   background: linear-gradient(to bottom right, #e93456, #e74b67);
+   background: -webkit-linear-gradient(left top, #d047cd, #ff8e20);
+   background: linear-gradient(to bottom right, #d047cd, #ff8e20);
    -webkit-background-clip: text;
    -webkit-text-fill-color: transparent;
    transition: background ease 5s;
