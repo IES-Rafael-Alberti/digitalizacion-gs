@@ -13,7 +13,7 @@ Material didáctico del módulo Digitalización aplicada a los sectores producti
 
 ![logo][logo-image]
 
-[logo-image]: https://github.com/IES-Rafael-Alberti/digitalizacion-gs/blob/main/logos/portada-moodle.png?raw=true
+[logo-image]: logos/portada-moodle.png
 
 ## Recursos
 
