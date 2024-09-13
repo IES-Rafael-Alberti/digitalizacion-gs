@@ -13,7 +13,7 @@ Material didáctico del módulo Digitalización aplicada a los sectores producti
 
 ![logo][logo-image]
 
-[logo-image]: https://github.com/DavidLMS/material-modelos-ia/blob/main/logos/DIG-24-25-moodle.jpg?raw=true
+[logo-image]: https://github.com/DavidLMS/material-modelos-ia/blob/main/logos/portada-moodle.png?raw=true
 
 ## Diapositivas
 
