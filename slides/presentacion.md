@@ -4,7 +4,7 @@
 
 ---
 
-## Título: Desarrollo de Aplicaciones Multiplataforma
+## Título: Desarrollo de Aplicaciones Multiplataforma/Web
 
 **Nivel**: Grado Superior.
 
@@ -15,7 +15,7 @@
 
 ## Módulo: Digitalización aplicada a los sectores productivos (GS) (1665)
 
-**Curso**: GS en Desarrollo de Aplicaciones Multiplataforma
+**Curso**: GS en Desarrollo de Aplicaciones Multiplataforma/Web
 
 **Sesiones**: 1 hora/semana
 
@@ -31,13 +31,13 @@
 
 |          | **Lunes** | **Martes** | **Miércoles** | **Jueves** | **Viernes** |
 |-------------------|-----------|------------|---------------|------------|------------|
-| **15:30 - 16:30** |           |           |               |            |	            |
-| **16:30 - 17:30** |           |            |               |            |            |
-| **17:30 - 18:30** |           |            |            |            |            |
-| **18:30 - 18:45** |           |            |               |            |            |
-| **18:45 - 19:45** |        |            |            |            |            |
-| **19:45 - 20:45** |        |            |               |            |            |
-| **20:45 - 21:45** |        |            |               |  
+| **1ª** |           |           |               |      DAM      |	            |
+| **2ª** |           |            |               |       DAW-B     |            |
+| **3ª** |           |            |            |            |            |
+| **Recreo** |           |            |               |            |            |
+| **4ª** |        |            |            |          |  DAW-A            | 
+| **5ª** |        |            |               |            |            |
+| **6ª** |        |            |               |  
 ---
 
 ## Metodología: ¿Cómo aprendemos?
@@ -134,7 +134,7 @@ Moodle Centros
 
 iPasen
 
-Correo: dromsan617@g.educaand.es
+Correo electrónico
 
 ---
 
