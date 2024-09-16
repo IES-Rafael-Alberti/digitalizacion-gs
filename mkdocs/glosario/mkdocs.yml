@@ -5,6 +5,9 @@ site_dir: ../../docs/glosario
 # Page tree
 nav:
   - Inicio: index.md
+  - UD1: 
+    - ud1.md
+    - Digitalización y Transformación Digital: digitalizacion.md
 
 extra:
   social:
