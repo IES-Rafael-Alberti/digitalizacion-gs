@@ -2,12 +2,12 @@ name: mkdocs-to-html
 
 on:
   # Si quieres elegir cuándo lanzarlo, comenta las líneas push y siguientes y descomenta la línea a continuación:
-   workflow_dispatch:
-  # push:
-  #  branches:
-  #   - main
-  #  paths:
-  #   - 'mkdocs/**'
+  # workflow_dispatch:
+   push:
+    branches:
+     - main
+    paths:
+     - 'mkdocs/**'
 
 jobs:
   list-dirs:
