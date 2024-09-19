@@ -3,3 +3,11 @@
   --md-primary-fg-color--light: #b95eb7;
   --md-primary-fg-color--dark:  #b95eb7;
 }
+
+[data-md-color-scheme="alberti"] .only-dark {
+  display: none;
+}
+
+[data-md-color-scheme="slate"] .only-light {
+  display: none;
+}
