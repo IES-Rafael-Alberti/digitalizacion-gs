@@ -12,3 +12,4 @@
 * [IT y OT](it-ot.md)
 * [Departamentos IT y roles](departamentos-it.md)
 * [Inteligencia Artificial](ia.md)
+* [Machine Learning y Deep Learning](ml-dl.md)
