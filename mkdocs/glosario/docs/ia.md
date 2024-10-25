@@ -8,6 +8,8 @@
 
 La **Inteligencia Artificial (IA)** es un campo de la informática que se dedica al desarrollo de sistemas y algoritmos capaces de realizar tareas que, en condiciones normales, requerirían de inteligencia humana. Esto incluye capacidades como el aprendizaje, la percepción, la resolución de problemas, la comprensión del lenguaje natural, y la toma de decisiones. La IA busca crear máquinas que simulen la cognición humana y que puedan ejecutar tareas de forma autónoma, basándose en datos y patrones. A través de enfoques como el aprendizaje automático, la IA permite que los sistemas mejoren su rendimiento a partir de la experiencia, sin ser programados de manera explícita para cada tarea específica.
 
+La IA también tiene un papel clave en la automatización y optimización de procesos operativos y de negocio. Esto incluye ejemplos como la optimización de la cadena de suministro, la automatización del inventario y el balanceo energético, que permiten a las empresas mejorar su eficiencia y reducir costos.
+
 ## Tipos de Inteligencia Artificial[^1]
 
 | **Tipo de IA**                   | **Descripción**                                                                                                                                                                                                                              |
@@ -16,13 +18,29 @@ La **Inteligencia Artificial (IA)** es un campo de la informática que se dedi
 | **IA fuerte/IA general (AGI)**   | Es una **IA avanzada** que podría tener capacidades cognitivas similares a las humanas, capaz de razonar, aprender y actuar en un contexto amplio, similar al pensamiento humano. Aunque es un concepto teórico, se refiere a sistemas hipotéticos que podrían realizar cualquier tarea cognitiva que un humano pueda hacer, incluyendo tener conciencia y razonar de manera autónoma. |
 | **ASI (Superinteligencia Artificial)** | Es un tipo de inteligencia hipotética que superaría las capacidades cognitivas humanas en todos los aspectos, desde la creatividad hasta la resolución de problemas complejos. La **ASI** tendría la capacidad de mejorar su propia inteligencia de manera autónoma, lo cual podría llevar a avances exponenciales en tecnología y conocimiento. |
 
+## Lenguajes de programación para IA
+
+Para desarrollar soluciones de IA, es fundamental conocer ciertos lenguajes de programación que ofrecen bibliotecas y herramientas especializadas. Entre los más destacados se encuentran:
+
+- **Python**: Es el lenguaje más popular para el desarrollo de IA debido a su simplicidad y la amplia disponibilidad de bibliotecas como TensorFlow, PyTorch y scikit-learn. Python es ideal tanto para prototipado rápido como para aplicaciones complejas en aprendizaje automático.
+
+- **R**: Utilizado especialmente en análisis de datos y estadística, útil para el desarrollo de modelos predictivos.
+
+- **C++**: Destacado por su eficiencia y control a bajo nivel, es adecuado para aplicaciones de IA en tiempo real.
+
+- **Java**: Utilizado para integrar IA en sistemas empresariales debido a su portabilidad y escalabilidad.
+
+El conocimiento de estos lenguajes permite a los desarrolladores elegir las herramientas adecuadas según las necesidades de cada proyecto de IA, optimizando tanto el rendimiento como la facilidad de implementación.
+
 ## Explicación
 
-La **inteligencia artificial** es como un software avanzado que puede aprender a realizar tareas específicas y resolver problemas por sí mismo, sin intervención constante. Por ejemplo, un asistente virtual como **Siri** o **Alexa** representa un tipo de **IA débil**: puede entender comandos y responder preguntas, pero solo sigue instrucciones predefinidas sin entender realmente el contexto o tener conciencia.
+La **Inteligencia Artificial** es como un software avanzado que puede aprender a realizar tareas específicas y resolver problemas por sí mismo, sin intervención constante. Por ejemplo, un asistente virtual como **Siri** o **Alexa** representa un tipo de **IA débil**: puede entender comandos y responder preguntas, pero solo sigue instrucciones predefinidas sin entender realmente el contexto o tener conciencia.
 
 Una **red neuronal**, por su parte, es un modelo matemático que simula el funcionamiento del cerebro humano, utilizando múltiples nodos interconectados que imitan a las neuronas. Cuando subes una foto a una red social, la **IA** puede identificar a las personas en la imagen porque ha aprendido a reconocer características faciales tras procesar millones de imágenes similares.
 
 La **IA fuerte o IA general (AGI)** es un concepto teórico que describe una inteligencia capaz de pensar, aprender y actuar como un ser humano en cualquier situación, algo que aún no se ha logrado. Este tipo de IA también implicaría la posibilidad de tener emociones, conciencia y la capacidad de razonar de manera autónoma.
+
+La Inteligencia Artificial se apoya en el **Big Data**, que proporciona la gran cantidad de datos necesaria para entrenar modelos y mejorar las predicciones y decisiones empresariales. El uso de Big Data es fundamental para la optimización empresarial, incluyendo la previsión de la demanda y la personalización de ofertas.
 
 ## Caso práctico: Aplicación de IA en la medicina
 
