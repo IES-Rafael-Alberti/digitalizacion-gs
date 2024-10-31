@@ -13,3 +13,4 @@
 * [Departamentos IT y roles](departamentos-it.md)
 * [Inteligencia Artificial](ia.md)
 * [Machine Learning y Deep Learning](ml-dl.md)
+* [Inteligencia Artificial Generativa](iag.md)
