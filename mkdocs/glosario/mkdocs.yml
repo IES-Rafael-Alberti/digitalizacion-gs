@@ -2,10 +2,9 @@ INHERIT: ../base.yml
 site_name: Digitalización - Glosario
 site_dir: ../../docs/glosario
 
-# Page tree
 nav:
   - Inicio: index.md
-  - UD1: 
+  - UD1:
     - ud1.md
     - Digitalización y Transformación Digital: digitalizacion.md
     - IT y OT: it-ot.md
@@ -13,6 +12,13 @@ nav:
     - Inteligencia Artificial: ia.md
     - Machine Learning y Deep Learning: ml-dl.md
     - Inteligencia Artificial Generativa: iag.md
+    - Grandes Modelos de Lenguaje: llm.md
+    - Retrieval Augmented Generation: rag.md
+    - Agentes: agentes.md
+    - Sistemas complejos: sistemas-complejos.md
+  - UD2:
+    - ud2.md
+    - Big Data: big-data.md
 
 extra:
   social:
@@ -24,47 +30,7 @@ extra:
       name: Repositorio del módulo
 
 plugins:
-# Configuración de ejemplo, no se aplicará mientras que no se elimine este plugin de los .yml de cada proyecto
   - search:
       lang: es
-  - search:
-      lang: es
-  - with-pdf:
-      author: Equipo educativo del IES Rafael Alberti
-      copyright: CC BY-SA 4.0
-      #
-      cover: true
-      #back_cover: true
-      cover_title: Glosario de Digitalización
-      cover_subtitle: Grado Superior en Desarrollo de Aplicaciones Multiplataforma
-      #custom_template_path: TEMPLATES PATH
-      #
-      toc_title: Tabla de contenidos
-      #heading_shift: false
-      #toc_level: 3
-      #ordered_chapter_level: 2
-      #excludes_children:
-      #    - 'release-notes/:upgrading'
-      #    - 'release-notes/:changelog'
-      #
-      #exclude_pages:
-      #    - 'bugs/'
-      #    - 'appendix/contribute/'
-      #convert_iframe:
-      #    - src: IFRAME SRC
-      #      img: POSTER IMAGE URL
-      #      text: ALTERNATE TEXT
-      #    - src: ...
-      #two_columns_level: 3
-      #
-    #render_js: true
-      #headless_chrome_path: headless-chromium
-      #
-    #output_path: ../document.pdf
-      #enabled_if_env: ENABLE_PDF_EXPORT
-      #
-      #debug_html: true
-      #show_anchors: true
-    #verbose: true
 
 copyright: Contenido generado por el equipo educativo del IES Rafael Alberti
