@@ -8,7 +8,7 @@
 
 Los entornos IT dentro de las empresas están compuestos por varios departamentos con funciones especializadas. Cada uno de ellos contribuye al correcto funcionamiento y evolución de la infraestructura tecnológica de la organización. A continuación, se detallan los principales departamentos IT y algunos roles más relevantes asociados a cada uno.
 
-## Departamentos IT
+## Departamentos IT[^1][^2][^3][^4]
 
 ### Desarrollo de Software
 Este departamento es responsable de crear, mantener y mejorar las aplicaciones que la empresa utiliza o distribuye a sus clientes. Su objetivo principal es garantizar que el software funcione correctamente, esté alineado con las necesidades del negocio y sea escalable.
@@ -116,6 +116,9 @@ Este flujo de trabajo muestra cómo, desde una decisión estratégica, los difer
 
 
 [^1]: Electric.ai: "The IT Department: Roles & Responsibilities to Know". [https://www.electric.ai/blog/guide-to-it-department](https://www.electric.ai/blog/guide-to-it-department)
+
 [^2]: InvGate: "Inside The IT Department: Key Roles, Structures, and Strategies". [https://blog.invgate.com/it-department](https://blog.invgate.com/it-department)
+
 [^3]: PDQ: "How to structure an IT team: Examples & org charts". [https://www.pdq.com/blog/it-team-structure-and-org-chart/](https://www.pdq.com/blog/it-team-structure-and-org-chart/)
+
 [^4]: Atera: "The Different IT department roles & responsibilities". [https://www.atera.com/blog/the-different-it-department-roles-and-responsibilities/](https://www.atera.com/blog/the-different-it-department-roles-and-responsibilities/)
