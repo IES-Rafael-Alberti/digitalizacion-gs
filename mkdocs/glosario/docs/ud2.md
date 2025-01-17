@@ -9,3 +9,7 @@
 ### Tabla de contenidos
 
 * [Big Data](bigdata.md)
+
+* [Ciberseguridad y privacidad de la información](ciberseguridad.md)
+
+* [Principales amenazas y copias de seguridad](amenazas.md)

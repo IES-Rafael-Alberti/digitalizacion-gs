@@ -19,6 +19,8 @@ nav:
   - UD2:
     - ud2.md
     - Big Data: bigdata.md
+    - Ciberseguridad y privacidad de la información: ciberseguridad.md
+    - Principales amenazas y copias de seguridad: amenazas.md
 
 extra:
   social:
