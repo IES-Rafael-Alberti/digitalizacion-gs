@@ -1,7 +1,7 @@
 # Internet de las Cosas y Gemelos Digitales
 
 <center>
-![](assets/iot-dt.png){ width="800" }
+![](assets/thd4.png){ width="800" }
 </center>
 
 El **Internet de las Cosas (IoT)** y los **Gemelos Digitales** representan dos tecnologías estrechamente relacionadas que están transformando la forma en que monitorizamos, analizamos y optimizamos sistemas físicos. Mientras que IoT proporciona la capa de sensores y conectividad que captura datos del mundo real, los gemelos digitales utilizan estos datos para crear réplicas virtuales precisas que permiten simulación y análisis avanzado.
