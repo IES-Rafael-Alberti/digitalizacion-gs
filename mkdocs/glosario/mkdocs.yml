@@ -26,6 +26,15 @@ nav:
     - Blockchain y activos digitales: blockchain.md
     - Realidad Virtual y Realidad Aumentada: rarv.md
     - Internet de las Cosas y Gemelos Digitales: iot.md
+  - UD3:
+    - ud3.md
+    - Kit Digital: kit.md
+    - Modelo Canvas: canvas.md
+    - Metodología OKR: okr.md
+    - Metodologías ágiles: agiles.md
+    - Matriz de riesgos y Matriz RACI: matrices.md
+    - Paradigmas de computación distribuida: cloud.md
+    - Tipos de servicios en la nube: servicios.md
 
 extra:
   social:
